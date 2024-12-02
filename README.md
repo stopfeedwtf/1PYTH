@@ -1,5 +1,6 @@
 # 1PYTH
 Ci-joint une documentation simple des deux exercices composant le projet final 1PYTH.
+Projet mis en public après notation le 02/12/2024
 
 # Exercice 1 - Snort
 
